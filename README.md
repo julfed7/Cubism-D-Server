@@ -1,2 +1,2 @@
 # Cubism-D-Server
-For play with other people
+For cubism-d
